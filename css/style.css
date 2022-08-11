@@ -1,0 +1,12 @@
+.box{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://html5css.ru/css/img_lights.jpg);
+}
+.paragraph{
+    font-family: sans-serif;
+    color: aliceblue;
+}
